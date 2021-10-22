@@ -1,2 +1,4 @@
-# mapping_CWE_OWASP-Top10
-Mapping CWE - OWASP Top10 2021
+# Mapping CWE to OWASP Top10 2021
+Format:
+* md
+* csv
